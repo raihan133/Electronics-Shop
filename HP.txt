@@ -1,0 +1,20 @@
+HP Pavilion 15-cs3007tu
+58400.0
+4
+15.6
+core i5
+HP Probook 450 G7 
+68000.0
+8
+15.6
+core i5
+HP Pavilion 15-eg0078TU
+9300.0
+8
+15.6
+core i7
+HP 15s-DU2061TU
+49500.0
+4
+14
+core i3

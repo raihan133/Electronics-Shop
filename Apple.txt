@@ -1,0 +1,15 @@
+Apple MacBook Air(MWTJ2)
+98000
+8
+13.3
+core i3
+Apple MacBook Air(MVH52)
+126000
+8
+13.3
+core i5
+Apple MacBook Pro(MWP72)
+172000
+16
+13.3
+core i5

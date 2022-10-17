@@ -1,0 +1,15 @@
+ASUS Expert Book P1440FA
+48000
+4
+14
+core i3
+Asus VivoBook S15 S533EA
+78000
+8
+15.6
+core i5
+Asus VivoBook 15 X513EP
+90800
+8
+15.6
+core i7

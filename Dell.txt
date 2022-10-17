@@ -1,0 +1,20 @@
+Dell Vostro 14-3401
+42500.0
+4
+14
+core i3
+Dell Inspiron 15 3501
+45200.0
+4
+15.6
+core i3
+Dell Inspiron 15 5593
+69000.0
+8
+15.6
+core i5
+Dell Latitude 5410
+99000.0
+16
+14
+core i7
